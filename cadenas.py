@@ -1,6 +1,6 @@
 
 frase_ingresada = input("Ingrese una frase (máximo 100 caracteres)")
-
+'''
 frase = [""] * 100
 longitud_real = 0
 
@@ -80,6 +80,7 @@ for i in range(indice_palabra + 1):
 
 
 
+'''
 
 
 
